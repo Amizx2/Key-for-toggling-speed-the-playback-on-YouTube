@@ -1,0 +1,11 @@
+function togglePlaybackSpeed() {
+    const video = document.querySelector('video');
+    if (video) {
+        video.playbackRate = video.playbackRate === 1 ? 2 : 1; //Here you can choose which speed to switch more details in the README file/здесь можно выбрать какую скорость переключать подробнее в файле README
+    }
+}
+document.addEventListener('keydown', function(event) {
+    if (event.key === '\\') { //here instead of "\\" you can assign any other key.//здесь вместо "\\" можно назначить любую другую клавишу.
+        togglePlaybackSpeed();
+    }
+});
