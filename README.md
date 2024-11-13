@@ -20,6 +20,8 @@ If you need another key: Change Backslash in the line if (event.key === 'Backsla
 ![image](https://github.com/user-attachments/assets/6016a976-949c-43f4-8435-eb40169917db)
 
 
+##### I will be glad to see suggestions for improvements and adding new features.
+
 ## (RU)
 ## Клавиша для переключения скорости воспроизведения на YouTube.
 
@@ -43,5 +45,5 @@ If you need another key: Change Backslash in the line if (event.key === 'Backsla
 
 ![image](https://github.com/user-attachments/assets/cca31086-b3a5-4c28-b149-34fb4fc61984)
 
-
+##### Буду рад видеть предложения по улучшению и добавлению новых функций.
 
