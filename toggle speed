@@ -1,11 +1,15 @@
 function togglePlaybackSpeed() {
     const video = document.querySelector('video');
     if (video) {
-        video.playbackRate = video.playbackRate === 1 ? 2 : 1; //Here you can choose which speed to switch more details in the README file/здесь можно выбрать какую скорость переключать подробнее в файле README
+        video.playbackRate = video.playbackRate === 1 ? 2 : 1;  //Here you can choose which speed to switch more details in the README file/здесь можно выбрать какую скорость переключать подробнее в файле README
+    }
+    } else {
+        console.warn('Видео не найдено');
     }
 }
+
 document.addEventListener('keydown', function(event) {
-    if (event.key === '\\') { //here instead of "\\" you can assign any other key.//здесь вместо "\\" можно назначить любую другую клавишу.
+    if (event.code === 'Backslash') { //Here instead of "Backslash" you can assign any other key.The values of all keys are in the README//Здесь вместо "Backslash" можно назначить любую другую клавишу. Значения всех клавиш есть в README
         togglePlaybackSpeed();
     }
 });
