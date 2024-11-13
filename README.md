@@ -1,9 +1,9 @@
-# Enhancer for YouTube toggle swithc-speed 
+# Switching the speed on YouTube
 #### (ENG)
 In the settings of Enhancer for YouTube there is an item for adding custom scripts, I wrote a code that adds a speed switch from x1, x2 (or any other values) and back.
 
 ### How to use:
-Install the Enhancer for YouTube extension, go to the settings, there is a "Custom script" item at the very bottom, insert the code from the file [toggle speed](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed ). 
+Install the [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), go to the settings, there is a "Custom script" item at the very bottom, insert the code from the file [toggle speed](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed ). 
 ### Be sure to select "Automatically execute a custom script if YouTube is loaded in the tab":
 ![image](https://github.com/user-attachments/assets/2778d6e0-a504-4754-9f42-2c9ff627529b)
 
@@ -23,10 +23,10 @@ If you need another key: Change Backslash in the line if (event.key === 'Backsla
 
 ## (RU)
 
-В настройках Enhancer для YouTube есть пункт для добавления пользовательских скриптов, я написал код, который добавляет переключение скорости с x1, x2 (или любых других значений) и обратно.
+В настройках Enhancer for YouTube есть пункт для добавления пользовательских скриптов, я написал код, который добавляет переключение скорости с x1, x2 (или любых других значений) и обратно.
 
 ### Как использовать:
-Устанавливаем расширение Enhancer for YouTube, переходим в настройки, в самом низу есть пункт "Пользовательский скрипт", вставляем сюда код из файла [toggle speed](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed). 
+Устанавливаем расширение [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), переходим в настройки, в самом низу есть пункт "Пользовательский скрипт", вставляем сюда код из файла [toggle speed](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed). 
 ### Обязательно выбираем "Автоматически выполнять пользовательский скрипт, если во вкладке загружен YouTube":
 ![image](https://github.com/user-attachments/assets/312f8236-79df-4c2b-8222-215929eed790)
 
