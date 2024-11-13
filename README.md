@@ -20,7 +20,7 @@ If you need another key: Change Backslash in the line if (event.key === 'Backsla
 ![image](https://github.com/user-attachments/assets/6016a976-949c-43f4-8435-eb40169917db)
 
 
-If you are too lazy to configure the extension, you can install [my setting](https://github.com/Amizx2/Key-for-toggling-speed-the-playback-on-YouTube/blob/main/Export%20setting) by downloading the file and exporting it (The Import button is at the very bottom).
+If you are too lazy to configure the extension, you can install [my setting](https://github.com/Amizx2/Key-for-toggling-speed-the-playback-on-YouTube/blob/main/Export%20setting) download the file and import it (The Import button is at the very bottom).
 
 ##### I will be glad to see suggestions for improvements and adding new features.
 
@@ -48,7 +48,7 @@ If you are too lazy to configure the extension, you can install [my setting](htt
 ![image](https://github.com/user-attachments/assets/cca31086-b3a5-4c28-b149-34fb4fc61984)
 
 
-Если слишком лень настраивать расширение, то можете установить [мои настройки](https://github.com/Amizx2/Key-for-toggling-speed-the-playback-on-YouTube/blob/main/Export%20setting), скачав файл и ипортируя его(В самом низу кнопка Ипорт).
+Если слишком лень настраивать расширение, то можете установить [мои настройки](https://github.com/Amizx2/Key-for-toggling-speed-the-playback-on-YouTube/blob/main/Export%20setting), скачиваем файл и ипортируем его (В самом низу кнопка Импорт).
 
 ##### Буду рад видеть предложения по улучшению и добавлению новых функций.
 
