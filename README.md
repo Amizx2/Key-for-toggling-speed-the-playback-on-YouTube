@@ -1,4 +1,4 @@
-# Switching the speed on YouTube
+# Key for toggling speed the playback on YouTube
 #### (ENG)
 In the settings of Enhancer for YouTube there is an item for adding custom scripts, I wrote a code that adds a speed switch from x1, x2 (or any other values) and back.
 
@@ -20,8 +20,8 @@ If you need another key: Change Backslash in the line if (event.key === 'Backsla
 ![image](https://github.com/user-attachments/assets/6016a976-949c-43f4-8435-eb40169917db)
 
 
-
 ## (RU)
+## Клавиша для переключения скорости воспроизведения на YouTube.
 
 В настройках Enhancer for YouTube есть пункт для добавления пользовательских скриптов, я написал код, который добавляет переключение скорости с x1, x2 (или любых других значений) и обратно.
 
