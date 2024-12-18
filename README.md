@@ -13,6 +13,8 @@ Install the [Resource Override](https://github.com/kylepaulsen/ResourceOverride?
 Click on "Edit File" and paste the code from [this file](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed). Then, click "Save & Close."  
 
 In the "Tab URL" field, enter "https://www.youtube.com*" (without quotes).  
+![изображение](https://github.com/user-attachments/assets/f2ec8d19-5898-494e-9bd0-c24f794975aa)
+
 
 
 ### How to customize for yourself:
@@ -44,6 +46,7 @@ If you are too lazy to configure the extension, you can install [my setting](htt
 Устанавливаем расширение [Resource Override](https://github.com/kylepaulsen/ResourceOverride?tab=readme-ov-file), открываем настройки, нажимаем "Add rule", выбираем "Inject File", проверьте чтобы был File Type: JS,
 и Inject into: Head. Нажимаем Edit File и вставляем код из [файла](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed). Далее нажимаем Save & Close в пунке "Tab URL:" прописываем " https://www.youtube.com* " без ковычек.  
 
+![изображение](https://github.com/user-attachments/assets/52d9e96d-2e61-4f2e-91db-036fe23330e1)
 
 ### Как настроить под себя:
 
