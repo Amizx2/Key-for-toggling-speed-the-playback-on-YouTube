@@ -7,6 +7,12 @@ Install the [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube),
 ### Be sure to select "Automatically execute a custom script if YouTube is loaded in the tab":
 ![image](https://github.com/user-attachments/assets/2778d6e0-a504-4754-9f42-2c9ff627529b)
 
+### Alternative Method Without Enhancer for YouTube  
+Install the [Resource Override](https://github.com/kylepaulsen/ResourceOverride?tab=readme-ov-file) extension. Open its settings, click "Add Rule," and select "Inject File." Ensure that the File Type is set to "JS" and Inject into is set to "Head."  
+
+Click on "Edit File" and paste the code from [this file](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed). Then, click "Save & Close."  
+
+In the "Tab URL" field, enter "https://www.youtube.com*" (without quotes).  
 
 
 ### How to customize for yourself:
@@ -34,7 +40,9 @@ If you are too lazy to configure the extension, you can install [my setting](htt
 ### Обязательно выбираем "Автоматически выполнять пользовательский скрипт, если во вкладке загружен YouTube":
 ![image](https://github.com/user-attachments/assets/312f8236-79df-4c2b-8222-215929eed790)
 
-
+### Альтернативный способ без Enhancer for YouTube.
+Устанавливаем расширение [Resource Override](https://github.com/kylepaulsen/ResourceOverride?tab=readme-ov-file), открываем настройки, нажимаем "Add rule", выбираем "Inject File", проверьте чтобы был File Type: JS,
+и Inject into: Head. Нажимаем Edit File и вставляем код из [файла](https://github.com/Amizx2/Enhancer-for-YouTube-toggle-switch-speed/blob/main/toggle%20speed). Далее нажимаем Save & Close в пунке "Tab URL:" прописываем " https://www.youtube.com* " без ковычек.  
 
 
 ### Как настроить под себя:
